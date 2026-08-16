@@ -1,0 +1,25 @@
+﻿id,usuario,data,treino,grupo_muscular,exercicio,numero_serie,metodo,percentual_carga,carga_trabalho_kg,carga_kg,reps_alvo,repeticoes,rir_alvo,rir,velocidade,tempo_descanso
+1,vinicius_fn,2026-08-13,Upper I,Costas,T-Bar Row,1,Preparatória,50,20.0,10.0,10-12,12,>5,0,2-0-1-0,~30s
+2,vinicius_fn,2026-08-13,Upper I,Costas,T-Bar Row,2,Preparatória,75,20.0,15.0,5,5,>5,0,2-0-1-0,~45s
+3,vinicius_fn,2026-08-13,Upper I,Costas,T-Bar Row,3,Preparatória,90,20.0,18.0,2,2,>5,0,2-0-1-0,~60s
+4,vinicius_fn,2026-08-13,Upper I,Costas,T-Bar Row,4,Work-set,100,20.0,20.0,5-9,5,1,0,2-0-1-0,120s
+5,vinicius_fn,2026-08-13,Upper I,Costas,T-Bar Row,5,Work-set,100,20.0,20.0,5-9,5,0,0,2-0-1-0,120s
+6,vinicius_fn,2026-08-13,Upper I,Costas,Puxada Alta com Triângulo,1,Preparatória,75,8.0,6.0,5,5,>5,0,2-0-1-0,~45s
+7,vinicius_fn,2026-08-13,Upper I,Costas,Puxada Alta com Triângulo,2,Preparatória,90,8.0,7.2,2,2,>5,0,2-0-1-0,~60s
+8,vinicius_fn,2026-08-13,Upper I,Costas,Puxada Alta com Triângulo,3,Work-set,100,8.0,8.0,5-9,8,1,0,2-0-1-0,120s
+9,vinicius_fn,2026-08-13,Upper I,Costas,Puxada Alta com Triângulo,4,Work-set,100,8.0,8.0,5-9,9,0,0,2-0-1-0,120s
+10,vinicius_fn,2026-08-13,Upper I,Peito,Supino Reto Máquina,1,Preparatória,50,20.0,10.0,10-12,12,>5,0,2-0-1-0,~30s
+11,vinicius_fn,2026-08-13,Upper I,Peito,Supino Reto Máquina,2,Preparatória,75,20.0,15.0,5,5,>5,0,2-0-1-0,~45s
+12,vinicius_fn,2026-08-13,Upper I,Peito,Supino Reto Máquina,3,Preparatória,90,20.0,18.0,2,2,>5,0,2-0-1-0,~60s
+13,vinicius_fn,2026-08-13,Upper I,Peito,Supino Reto Máquina,4,Work-set,100,20.0,20.0,5-9,7,1,0,2-0-1-0,120s
+14,vinicius_fn,2026-08-13,Upper I,Peito,Supino Reto Máquina,5,Work-set,100,20.0,20.0,5-9,8,0,0,2-0-1-0,120s
+15,vinicius_fn,2026-08-13,Upper I,Peito,Crucifixo na Polia Baixa,1,Preparatória,80,2.0,1.6,3-4,4,>5,5,2-0-1-0,~45s
+16,vinicius_fn,2026-08-13,Upper I,Peito,Crucifixo na Polia Baixa,2,Work-set,100,2.0,2.0,5-9,9,1,0,2-0-1-0,120s
+17,vinicius_fn,2026-08-13,Upper I,Peito,Crucifixo na Polia Baixa,3,Work-set,100,2.0,2.0,5-9,9,0,0,2-0-1-0,120s
+18,vinicius_fn,2026-08-13,Upper I,Ombros,Elevação Lateral na Máquina,1,Preparatória,75,8.0,6.0,5,5,>5,5,2-0-1-0,~45s
+19,vinicius_fn,2026-08-13,Upper I,Ombros,Elevação Lateral na Máquina,2,Preparatória,90,8.0,7.2,2,2,>5,5,2-0-1-0,~60s
+20,vinicius_fn,2026-08-13,Upper I,Bíceps,Rosca Scott Máquina,1,Preparatória,90,6.0,5.4,2,5,>5,0,2-0-1-0,~60s
+21,vinicius_fn,2026-08-13,Upper I,Bíceps,Rosca Scott Máquina,2,Muscle Round,100,6.0,6.0,-,9,-,0,2-0-1-0,10s entre blocos
+22,vinicius_fn,2026-08-13,Upper I,Tríceps,Tríceps Francês com Corda,1,Preparatória,90,3.0,2.7,2,2,>5,0,2-0-1-0,~60s
+23,vinicius_fn,2026-08-13,Upper I,Tríceps,Tríceps Francês com Corda,2,Work-set,100,3.0,3.0,5-9,9,1,0,2-0-1-0,120s
+24,vinicius_fn,2026-08-13,Upper I,Tríceps,Tríceps Francês com Corda,3,Work-set,100,3.0,3.0,5-9,9,0,0,2-0-1-0,120s
